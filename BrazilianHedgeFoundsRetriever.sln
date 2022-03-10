@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BrazilianHedgeFoundsRetriever", "BrazilianHedgeFoundsRetriever\BrazilianHedgeFoundsRetriever.csproj", "{A6B836B2-563F-4D22-ABF1-B965B2E0A9D7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{77189E5C-DA8C-4F0B-8558-3E13E28DAC9F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{2827211F-1AB5-4B47-81DF-17FBCA62FC08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrazilianHedgeFoundsRetriever.Tests", "BrazilianHedgeFoundsRetriever.Tests\BrazilianHedgeFoundsRetriever.Tests.csproj", "{009106A7-8DDD-4FE6-9B66-A7211D3FB4D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6B836B2-563F-4D22-ABF1-B965B2E0A9D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6B836B2-563F-4D22-ABF1-B965B2E0A9D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6B836B2-563F-4D22-ABF1-B965B2E0A9D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6B836B2-563F-4D22-ABF1-B965B2E0A9D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{009106A7-8DDD-4FE6-9B66-A7211D3FB4D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{009106A7-8DDD-4FE6-9B66-A7211D3FB4D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{009106A7-8DDD-4FE6-9B66-A7211D3FB4D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{009106A7-8DDD-4FE6-9B66-A7211D3FB4D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A6B836B2-563F-4D22-ABF1-B965B2E0A9D7} = {77189E5C-DA8C-4F0B-8558-3E13E28DAC9F}
+		{009106A7-8DDD-4FE6-9B66-A7211D3FB4D7} = {2827211F-1AB5-4B47-81DF-17FBCA62FC08}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2F7C37E-3CCD-499E-B60E-5EEC4F886B35}
+	EndGlobalSection
+EndGlobal
