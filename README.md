@@ -13,4 +13,5 @@ After populating the DB, you can call '/api/v1/Data' and use the query filter to
 
 If you try to call '/api/v1/Data' endpoint before calling '/api/v1/Data/load', as the DataBase is not populated, you will get an empty response.
 
-Unfortunately, i couldnt make the project tests work as intended, but i am working on it.
+Unfortunately, i couldnt make the project tests work as intended, but i am working on it. In my actual job we dont use any type of test in our project, what is a big flaw, and in consequence of that, i dont have much practicality in Test as a Geral. 
+Identifying this knowledge weak, i am studying since now to improve it.
