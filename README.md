@@ -1,7 +1,7 @@
 # BrazilianHedgeFoundsRetriever
 
 Hello!
-This project is a Job Application Test provided by Daemon Investimentos and resolved/developed by me.
+This project is a project developed by me to attend to a Job Application.
 
 To run this project, just clone the repository to your machine and run it the way you feel confortable to (IDE, CMD). To make calls to application, i recommend using Swagger, but if you want, you can use Postman too.
 
